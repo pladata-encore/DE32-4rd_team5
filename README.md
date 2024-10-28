@@ -2,6 +2,9 @@
 
 ## 개요
 이 애플리케이션은 Java Spring Framework와 영화진흥위원회 영화 목록 API를 사용하여 영화 정보를 조회할 수 있는 웹 애플리케이션입니다. 
+- Repo
+  
+  https://github.com/orgs/DE32-4-team5/repositories
 <br></br>
 
 ## 목차
